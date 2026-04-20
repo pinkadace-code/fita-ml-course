@@ -1,8 +1,13 @@
-# TMDb Filmu Vērtējuma Prognozēšana
+# TMDb filmu vērtējuma prognozēšana
 
 ## Problēma
-Prognozējam, vai filma tiks augsti novērtēta (vote_average > 6.5),
+Tiek prognozēts, vai filma tiks augsti novērtēta (vote_average > 6.5),
 izmantojot klasifikācijas modeli ar TMDb populāro filmu datiem.
+Tas būtu svarīgi filmu producētājiem, straumēšanas platformām
+un kino izplatītājiem, kas vēlas agrīni saprast, kādi faktori —
+popularitāte, valoda, iznākšanas gads — ietekmē skatītāju vērtējumu.
+Modelis var kalpot kā sākotnējais filtrs, palīdzot pieņemt lēmumus
+par filmu mārketingu un izplatīšanu.
 
 ## Datasets
 - Avots: [TMDb Top 10,000 Popular Movies Dataset (Kaggle)](https://www.kaggle.com/datasets/balaka18/tmdb-top-10000-popular-movies-dataset)
@@ -25,4 +30,4 @@ izmantojot klasifikācijas modeli ar TMDb populāro filmu datiem.
 3. Izpildi visas šūnas (Kernel → Restart & Run All)
 
 ## Autors
-Tavs vārds, FITA ML kurss, 2025
+Dace Pinka, FITA ML kurss, 2026
