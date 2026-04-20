@@ -3,7 +3,7 @@
 ## Problēma
 Tiek prognozēts, vai filma tiks augsti novērtēta (vote_average > 6.5),
 izmantojot klasifikācijas modeli ar TMDb populāro filmu datiem.
-Tas būtu svarīgi filmu producētājiem, straumēšanas platformām
+Prognoze ir svarīga filmu producētājiem, straumēšanas platformām
 un kino izplatītājiem, kas vēlas agrīni saprast, kādi faktori —
 popularitāte, valoda, iznākšanas gads — ietekmē skatītāju vērtējumu.
 Modelis var kalpot kā sākotnējais filtrs, palīdzot pieņemt lēmumus
